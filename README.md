@@ -14,3 +14,7 @@ Learn React JS
 >virtual DOM 
 
 >jSX [javascript syntex extension]
+
+>one way data binding :Uni directional flow
+
+>React native
