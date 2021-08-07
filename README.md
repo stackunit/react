@@ -5,7 +5,11 @@ Learn React JS
 
 <hr>
 >Introduction
+
 >single page application
+
 >feature of react
+
 >virtual DOM 
+
 >jSX [javascript syntex extension]
