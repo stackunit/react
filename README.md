@@ -18,3 +18,13 @@ Learn React JS
 >one way data binding :Uni directional flow
 
 >React native
+
+>Compomemt
+
+>Enviromental setup
+
+> node and npm
+
+>npx create-react-app demo
+
+
