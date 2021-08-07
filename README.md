@@ -27,4 +27,17 @@ Learn React JS
 
 >npx create-react-app demo
 
+>npm start
+
+>React Folder structure
+
+> package.json
+
+>package-lock.json
+
+>public :store css,image,fonts,js and main index.html is define there
+
+> src : main source folder 
+
+> 
 
